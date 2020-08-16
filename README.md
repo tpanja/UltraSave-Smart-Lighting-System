@@ -6,10 +6,11 @@ The MKR Wifi 1010 was used as the microcontroller. Ultrasonic sensors were used 
 
 # Requirements
 
-Arduino's Cloud-based IDE was used to create the program, however, Arduino IDE will work the same. This program works only for IoT devices.
+Arduino's Cloud-based IDE was used to create the program, to input all the wifi details and thing Properties. This program works only for IoT devices.
 
 # Code Location
 Go to Code/Ultrasave.ino
+
 
 Cheers,
 tpanja
