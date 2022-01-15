@@ -11,5 +11,5 @@ Arduino's Cloud-based IDE was used to create the program, to input all the wifi 
 # Code Location
 Go to Code/Ultrasave.ino
 
-Cheers,
+Thanks,
 tpanja
